@@ -1,0 +1,15 @@
+[33m882035b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m paso 12: comando cargar_demo con datos de prueba - mann-arvizu-martin-osiel
+[33ma6357e7[m paso 11: plantillas de categorias, facturas y reportes - mann-arvizu-martin-osiel
+[33m2e91058[m paso 09: vistas de categorias, facturas y reportes - mann-arvizu-martin-osiel
+[33m9e5d382[m paso 08: reportes.py con las 6 consultas SQL - mann-arvizu-martin-osiel
+[33m4d4a06c[m paso 06: registrar categorias y facturas en el admin - mann-arvizu-martin-osiel
+[33m8b78219[m paso 05: tablas Factura y DetalleFactura con indices - mann-arvizu-martin-osiel
+[33mda453f4[m paso 04: quitar categoria de texto y renombrar la llave foranea - mann-arvizu-martin-osiel
+[33mbc61635[m paso 03: migracion de datos que copia las categorias - mann-arvizu-martin-osiel
+[33m20965f1[m paso 02: tabla Categoria y llave foranea temporal - mann-arvizu-martin-osiel
+[33m6df3b72[m Actualizar README y proyecto
+[33mdc7a6b9[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m)[m Eliminar .env del repositorio
+[33m8709d8e[m Add files via upload
+[33ma7770b5[m Corregir configuracion de Render
+[33m12c1164[m Corregir configuracion de Django para Render
+[33mae27931[m Add project details to README.md
